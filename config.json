@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervncrypt",
+        "uuid": 1984024,
+        "checksum": "9735yq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
